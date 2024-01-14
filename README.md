@@ -67,7 +67,7 @@ database.
 Additional Features (Optional):
 For bonus points, you can add extra features such as order confirmation emails or coupon codes.
 
-# OnlineBookingSystem
+#saas platform for subscriptions
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
