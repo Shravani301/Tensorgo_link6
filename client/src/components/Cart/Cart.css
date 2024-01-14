@@ -1,0 +1,41 @@
+/* src/components/Cart.css */
+.cart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px; /* Adjust the top margin according to your preference */
+  }
+  
+  .button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .order-button,
+  .cancel-button,
+  .checkout-button {
+    width: 65%;
+    max-width: 200px;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .cancel-button {
+    background-color: #DC3545;
+  }
+  
+  .checkout-button {
+    background-color: #28A745;
+  }
+  
+  .additional-text {
+    margin-top: 20px; /* Adjust the top margin for the additional text */
+  }
+  

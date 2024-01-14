@@ -1,0 +1,23 @@
+/* src/components/Home.css */
+.menu-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #282c34;
+    padding: 10px;
+  }
+  
+  .menu-button {
+    color: #61dafb;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #61dafb;
+    border-radius: 5px;
+  }
+  
+  .checkout-total {
+    color: white;
+    margin-left: auto;
+  }
+  
